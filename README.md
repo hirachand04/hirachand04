@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I'm Hirachand
 
-<!--
-**hirachand04/hirachand04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Student | 💻 Developer | 🚀 Learning & Building
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Python](https://img.shields. io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img. shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hirachand04&show_icons=true&theme=radical)
+
+## 🔗 Connect
+
+[![GitHub](https://img.shields.io/badge/-GitHub-181717? style=flat&logo=github&logoColor=white)](https://github.com/hirachand04)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hirachandabarik@gmail.com)
+
+---
+
+💡 Always learning, always coding. 
